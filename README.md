@@ -19,7 +19,17 @@ git clone
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/fibonacci-generator.git
-cd fibonacci-generator
+git clone https://github.com/git clone 
+## 🚀 How to Use
 
-cd fibonacci-generator
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/git clone 
+## 🚀 How to Use
+
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/Samuel-Molele/HexSoftware_Fibonacci_Task1.git
+cd fibonacci
